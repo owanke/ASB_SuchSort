@@ -8,7 +8,7 @@ public class SortTest
     {
         int[] list = {9, 16, 17, 5, 3, 18, 14, 4, 14, 17};
         Sort sort = new Sort();
-        sort.bubbleUp(list, 0, 9);
+        sort.bubbleSort(list, 1, 8);
         
         
 
